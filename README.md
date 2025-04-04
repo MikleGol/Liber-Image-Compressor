@@ -1,7 +1,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <h3 align="center"><img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" width="5%"></h3>
-<h1 align="center"><b></b>  Liber Compress  </b></b></h1>
+<h1 align="center"><b></b>  Liber Press  </b></b></h1>
 
 <h3 align="center">Optimize Your Images with Ease</h3>
 
